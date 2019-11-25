@@ -6,8 +6,14 @@
         <img src="https://img.shields.io/badge/Language-Swift-yellow.svg"
              alt="Stars">
     </a>
-[![Platform](https://img.shields.io/cocoapods/p/LFAlertController.svg?style=flat)](http://cocoapods.org/pods/LFAlertController)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+<a href="https://github.com/KiranJasvanee/OnlyPictures">
+        <img src="https://img.shields.io/cocoapods/p/LFAlertController.svg?style=flat"
+             alt="Stars">
+    </a>
+<a href="https://github.com/KiranJasvanee/OnlyPictures">
+        <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"
+             alt="Stars">
+
 
 
 ![](https://i.ibb.co/J7JwbDQ/Captura-de-Pantalla-2019-11-25-a-la-s-1-30-19-a-m.png)
